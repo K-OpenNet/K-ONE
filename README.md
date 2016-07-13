@@ -20,6 +20,6 @@ K-ONE Collaboration Project is the project for developing next-generation networ
 
 ##K-ONE in details 
 
-### [K-ONE Participants](http://opennetworking.kr/projects/k-one-participant/wiki/Wiki)
+### [K-ONE Participants](https://github.com/K-OpenNet/Main/blob/master/doc/Participants.md)
 ### [K-ONE Software](http://opennetworking.kr/projects/k-one-software/wiki/Wiki)
 ### [K-ONE Technical Documents](http://opennetworking.kr/projects/k-one-technical-documents/wiki/Wiki)
