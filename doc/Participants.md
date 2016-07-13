@@ -5,7 +5,7 @@
 
 \# | Name      | Affilation | Course | Contact | Developed S/W | Period
 ----|----------|------------|--------|---------|---------------|-------
-1| Jun-Sik Shin | GIST |Ph.D. | jsshin@smartx.kr  | OpenStack-OvN | 15.06-Current
+1| Jun-Sik Shin | GIST |Ph.D. | jsshin@smartx.kr  | [OpenStack-OvN](https://github.com/K-OpenNet/OpenStack-OvN) | 15.06-Current
 2| Jungsu Han | GIST |Ph.D. | jshan@nm.gist.ac.kr | OpenStack-MultiView | 15.06-Current
 3| Namgon Lucas Kim | GIST |Ph.D. | namgon@smartx.kr | OpenStack-Mesos | 15.06-Current
 4|Hyunsik Yang|Soongsil Univ.| Ph.D.| yangun@dcn.ssu.ac.kr|OPNFV-HealthMon| 15.06-Current 
