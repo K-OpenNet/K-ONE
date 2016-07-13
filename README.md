@@ -4,6 +4,7 @@ K-ONE 협업 프로젝트는 SDN/NFV/Cloud 통합 차세대 네트워킹 오픈�
 K-ONE Collaboration Project is the project for developing next-generation networking opensource software. In this project, we aim on integrating of SDN/NFV/Cloud.  
 
 ![alt tag](https://github.com/K-OpenNet/Main/blob/master/img/Open_Collaboration.png)
+![alt tag](https://github.com/K-OpenNet/Main/blob/master/img/K-One_Collaboration.png)
 
 
 오픈소스(Open Source)는 단어에서 알 수 있듯 소스코드를 개방하여 전세계적으로 자발적인 기여를 받아 원하는 서비스를 빠르게 개발하고 수정하는데 이점을 가지고 있습니다. 예를들어, 오픈소스 클라우드 OS의 대표주자인 OpenStack은 최근 커뮤니티 확산을 진행하면서, 비공개인 3대 클라우드 (Amazon AWS, Google GCE, MS Azure)와 연계 혹은 대항하는 프라이빗 클라우드 구축을 위한 주력 기술로 부상한 상태입니다. 
