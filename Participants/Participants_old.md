@@ -1,6 +1,6 @@
 #K-ONE Participants
 
-![alt tag](https://github.com/K-OpenNet/Main/blob/master/img/K-One Members.png)
+![alt tag](https://github.com/K-OpenNet/Main/blob/master/images/K-ONE_Participants_Old.png)
 
 
 \# | Name      | Affilation | Course | Contact | Developed S/W | Period
