@@ -7,8 +7,8 @@
 ----|----------|------------|--------|---------|---------------|-------
 1| Jun-Sik Shin | GIST |Ph.D. | jsshin@smartx.kr  | [OpenStack-OvN](https://github.com/K-OpenNet/OpenStack-OvN) | 15.06-Current
 2| Jungsu Han | GIST |Ph.D. | jshan@nm.gist.ac.kr | [OpenStack-MultiView](https://github.com/K-OpenNet/OpenStack-MultiView) | 15.06-Current
-3| Namgon Lucas Kim | GIST |Ph.D. | namgon@smartx.kr | [OpenStack-Mesos](https://github.com/K-OpenNet/OpenStack-Mesos) | 15.06-Current
-4|Hyunsik Yang|Soongsil Univ.| Ph.D.| yangun@dcn.ssu.ac.kr|[OPNFV-HealthMon](https://github.com/K-OpenNet/OPNFV-HealthMon)| 15.06-Current 
+3| Usman Muhammad | GIST |Ph.D. | namgon@smartx.kr | [OpenStack-Mesos](https://github.com/K-OpenNet/OpenStack-Mesos) | 15.06-Current
+4| Hyunsik Yang |Soongsil Univ.| Ph.D.| yangun@dcn.ssu.ac.kr|[OPNFV-HealthMon](https://github.com/K-OpenNet/OPNFV-HealthMon)| 15.06-Current 
 5| Truong-Xuan Do| Soongsil Univ.| Ph.D.| xuan@dcn.ssu.ac.kr|[OPNFV-Cluster](https://github.com/K-OpenNet/OPNFV-Cluster)| 15.06-Current 
 6| MinSik Kim|Soongsil Univ.| Master| kms313@ssu.ac.kr| [OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-Current 
 7| Dongeun Suh| Korea Univ.| Ph.D.| dongeunsuh@gmail.com| [ODL-OSASS](https://github.com/K-OpenNet/ODL-OSASS) |15.06-Current 
