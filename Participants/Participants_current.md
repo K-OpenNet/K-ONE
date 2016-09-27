@@ -10,7 +10,7 @@
 3| Usman Muhammad | GIST | Integrated | usman@smartx.kr | - | 16.06-Current
 4| Hyunsik Yang | Soongsil Univ. | Ph.D.| yangun@dcn.ssu.ac.kr |[OPNFV-HealthMon](https://github.com/K-OpenNet/OPNFV-HealthMon)| 15.06-Current 
 5| MinSik Kim | Soongsil Univ. | Master | kms313@ssu.ac.kr | [OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-Current 
-6| Van-Tung Doan | Soongsil Univ. | Master | - | - | 16.06-Current 
+6| Van-Tung Doan | Soongsil Univ. | Master | tungdoan@dcn.ssu.ac.kr | - | 16.06-Current 
 7| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh@gmail.com | [ODL-OSASS](https://github.com/K-OpenNet/ODL-OSASS) |15.06-Current 
 8| Jaewook Lee | Korea Univ. | Master | iioiioiio123@korea.ac.kr |[ODL-TASS](https://github.com/K-OpenNet/ODL-TASS)| 15.06-Current 
 9| Hosung Baek| Korea Univ. | Master | gh1emd@korea.ac.kr | [ODL-SRMSS](https://github.com/K-OpenNet/ODL-SRMSS)| 15.06-Current 
