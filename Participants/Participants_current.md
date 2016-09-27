@@ -12,8 +12,8 @@
 5| MinSik Kim | Soongsil Univ. | Master | kms313@ssu.ac.kr | [OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-Current 
 6| Van-Tung Doan | Soongsil Univ. | Master | tungdoan@dcn.ssu.ac.kr | - | 16.06-Current 
 7| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh@gmail.com | [ODL-OSASS](https://github.com/K-OpenNet/ODL-OSASS) |15.06-Current 
-8| Jaewook Lee | Korea Univ. | Master | iioiioiio123@korea.ac.kr |[ODL-TASS](https://github.com/K-OpenNet/ODL-TASS)| 15.06-Current 
-9| Hosung Baek| Korea Univ. | Master | gh1emd@korea.ac.kr | [ODL-SRMSS](https://github.com/K-OpenNet/ODL-SRMSS)| 15.06-Current 
+8| Jaewook Lee | Korea Univ. | Integrated | iioiioiio123@korea.ac.kr |[ODL-TASS](https://github.com/K-OpenNet/ODL-TASS)| 15.06-Current 
+9| Hosung Baek| Korea Univ. | Integrated | gh1emd@korea.ac.kr | [ODL-SRMSS](https://github.com/K-OpenNet/ODL-SRMSS)| 15.06-Current 
 10| Seunghyeon Lee | KAIST | Ph.D. |coksm1963@kaist.ac.kr | [ONOS-ApSM](https://github.com/K-OpenNet/ONOS-ApSM) |15.06-Current 
 11| Heedo Kang | KAIST | Ph.D. |kangheedo@kaist.ac.kr | [ONOS-SSM](https://github.com/K-OpenNet/ONOS-SSM) |16.01-Current 
 12| Jinwoo Kim | KAIST | Master |jinwoookim@kaist.ac.kr | [ONOS-SMoV](https://github.com/K-OpenNet/ONOS-SMoV) |15.06-Current 
