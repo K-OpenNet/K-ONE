@@ -10,7 +10,7 @@
 8| ODL-TASS (Topology Abstraction of SF Scheduler) | Jaewook Lee (Korea Univ.) | v1.0 | - |[ODL-TASS](https://github.com/K-OpenNet/ODL-TASS)| - 
 9| ODL-SRMSS (SF Resource Monitoring of SF Scheduler) | Hosung Baek (Korea Univ.) | v1.0 | - | [ODL-SRMSS](https://github.com/K-OpenNet/ODL-SRMSS)| -
 10| ONOS-ApSM (Automated Policy File Generation module for Security-Mode) | Seunghyun Lee (KAIST) | v0.6 | - | [ONOS-ApSM](https://github.com/K-OpenNet/ONOS-ApSM) | - 
-11| ONOS-SSM (Scalable Security-Mode) | Heedo Kang (KAIST) | v2.0 |kangheedo@kaist.ac.kr| [ONOS-SSM](https://github.com/K-OpenNet/ONOS-SSM) | [History](https://gerrit.onosproject.org/#/q/Heedo+Kang) [ONOS Github](https://github.com/opennetworkinglab/onos/tree/master/core/security/src/main/java/org/onosproject/security) [WIKI](https://wiki.onosproject.org/display/ONOS/Security-Mode+ONOS)
+11| ONOS-SSM (Scalable Security-Mode) | Heedo Kang (KAIST) | v2.0 | - | [ONOS-SSM](https://github.com/K-OpenNet/ONOS-SSM) | [History](https://gerrit.onosproject.org/#/q/Heedo+Kang) [ONOS Github](https://github.com/opennetworkinglab/onos/tree/master/core/security/src/main/java/org/onosproject/security) [WIKI](https://wiki.onosproject.org/display/ONOS/Security-Mode+ONOS)
 12| ONOS-SMoV (Security-Mode on Virtual Network) | Jinwoo Kim (KAIST) | v0.6 | - | [ONOS-SMoV](https://github.com/K-OpenNet/ONOS-SMoV) | - 
 13| ONOS-LISP (LISP Subsystem for ONOS SDN Controller) | Yoonseon Han, Seungho Ryu (POSTECH) | v1.0 | - | [ONOS-LISP](https://github.com/K-OpenNet/ONOS-LISP)| - 
 14| ONOS-MasMan (Mastership/Auto-scaling Management System in ONOS)	| Woojoong Kim (POSTECH) | v1.0 | - | [ONOS-MasMan](https://github.com/K-OpenNet/ONOS-MasMan) | - 
