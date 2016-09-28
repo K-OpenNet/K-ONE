@@ -1,5 +1,6 @@
 # K-ONE Participants
 
+
 ![new participants](https://github.com/K-OpenNet/Main/blob/master/images/K-ONE_Participants_New.png)
 
 
@@ -22,3 +23,18 @@
 15| Jian Li | POSTECH | Ph.D. |gunine@postech.ac.kr | [ONOS-LISP](https://github.com/K-OpenNet/ONOS-LISP) | 16.06-Current 
 16| Heebum Yoon | GIST | Master | hbyoon@smartx.kr | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) | 16.06-Current 
 17| Taekho Nam | GIST | Master| thnam@smartx.kr | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) | 16.06-Current
+
+
+# Former Members
+\# | Name      | Affilation | Course | Contact | Developed S/W | Period
+----|----------|------------|--------|---------|---------------|-------
+1| Namgon Lucas Kim | GIST | Ph.D. | namgon@smartx.kr | [OpenStack-Mesos](https://github.com/K-OpenNet/OpenStack-Mesos) | 15.06-16.06
+2| Truong-Xuan Do | Soongsil Univ. | Ph.D. | xuan@dcn.ssu.ac.kr | [OPNFV-Cluster](https://github.com/K-OpenNet/OPNFV-Cluster) | 15.06-16.06
+3| Gwangwoo Park | Korea Univ. | Ph.D. | kwoo17@korea.ac.kr | - | 15.06-15.11 
+4| Hyeonseong Jo | KAIST | Master | hsjjo@kaist.ac.kr | - | 15.06-15.11
+5| Seungho Ryu | POSTECH | Ph.D. | seunghoryu@postech.ac.kr | [ONOS-LISP](https://github.com/K-OpenNet/ONOS-LISP) | 15.06-16.06
+6| DaeHwan Kim | KwangWoon Univ. | Master | kdhwan8876@daum.net | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) |15.06-16.02 
+7| Jaeyoung So | KwangWoon Univ. | Master | threeout56@gmail.com | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) |15.06-16.06 
+8| Hongseok Kim | KwangWoon Univ. | Master | quatuu@naver.com |[ONOS-IoTPro](https://github.com/K-OpenNet/ONOS-IoTPro) |15.06-16.06
+
+
