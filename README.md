@@ -21,5 +21,5 @@ K-ONE Collaboration Project is the project for developing next-generation networ
 ##K-ONE in details 
 
 ### [K-ONE Participants](https://github.com/K-OpenNet/Main/tree/master/Participants)
-### [K-ONE Software](https://github.com/K-OpenNet/Main/tree/master/Softwares)
+### [K-ONE Software_Solutions](https://github.com/K-OpenNet/Main/tree/master/Software_Solutions)
 ### [K-ONE Technical Documents](https://github.com/K-OpenNet/Main/tree/master/Technical_Documents)
