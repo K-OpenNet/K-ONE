@@ -1,7 +1,7 @@
 # K-ONE Participants
 
 
-![new participants](https://github.com/K-OpenNet/Main/blob/master/images/K-ONE_Participants_New.png)
+![new participants](https://github.com/K-OpenNet/K-ONE/blob/master/images/%5B170104%5DK-ONE_Consortium_Members.png)
 
 
 \# | Name      | Affilation | Course | Contact (e-Mail) | Developed S/W | Period
