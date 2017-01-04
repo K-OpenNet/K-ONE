@@ -20,7 +20,7 @@
 12| Jinwoo Kim | KAIST | M.S. |jinwoookim_at_kaist.ac.kr | [ONOS-SMoV](https://github.com/K-OpenNet/ONOS-SMoV) | 15.06-Current 
 13| Yoonseon Han | POSTECH | Ph.D (Int.)| seon054_at_postech.ac.kr | [ONOS-LISP(MGMT Plane)](https://github.com/K-OpenNet/ONOS-LISP-Management-Plane)| 15.06-Current 
 14| Woojoong Kim | POSTECH | Ph.D. |woojoong_at_postech.ac.kr | [ONOS-MAS-Man](https://github.com/K-OpenNet/ONOS-MAS-Man) |15.06-Current 
-15| Jian Li | POSTECH | Ph.D. |gunine_at_postech.ac.kr | [ONOS-LISP(Control Plane)](https://github.com/K-OpenNet/ONOS-LISP-Control-Plane) | 16.06-Current 
+15| Jian Li | POSTECH | Post Doctoral |gunine_at_postech.ac.kr | [ONOS-LISP(Control Plane)](https://github.com/K-OpenNet/ONOS-LISP-Control-Plane) | 16.06-Current 
 16| Heebum Yoon | GIST | M.S. | hbyoon_at_smartx.kr | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) | 16.06-Current 
 17| Taekho Nam | GIST | M.S.| thnam_at_smartx.kr | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) | 16.06-Current
 
