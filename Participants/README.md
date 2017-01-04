@@ -12,8 +12,8 @@
 4| Hyunsik Yang | Soongsil Univ. | Ph.D.| yangun_at_dcn.ssu.ac.kr |[OPNFV-HealthMon](https://github.com/K-OpenNet/OPNFV-HealthMon) <br>[OPNFV-portscanning](https://github.com/K-OpenNet/OPNFV-portscanning)| 15.06-Current 
 5| MinSik Kim | Soongsil Univ. | M.S. | kms313_at_ssu.ac.kr | [OPNFV-Cluster](https://github.com/K-OpenNet/OPNFV-Cluster) <br>[OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-Current 
 6| Van-Tung Doan | Soongsil Univ. | M.S. | tungdoan_at_dcn.ssu.ac.kr | [OPNFV-Alarm](https://github.com/K-OpenNet/OPNFV-Alarm) | 16.06-Current 
-7| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh_at_gmail.com | [ODL-OPNFV-LoadPathAwareSFscheduler(API)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerAPI) <br>[OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
-8| Jaewook Lee | Korea Univ. | Ph.D. | iioiioiio123_at_korea.ac.kr | [ODL-OPNFV-LoadPathAwareSFscheduler(TEST)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerTest) <br>[OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
+7| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh_at_gmail.com | [ODL-OPNFV-LoadPathAwareSFscheduler (API)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerAPI) <br>[OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
+8| Jaewook Lee | Korea Univ. | Ph.D. | iioiioiio123_at_korea.ac.kr | [ODL-OPNFV-LoadPathAwareSFscheduler (TEST)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerTest) <br>[OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
 9| Hosung Baek| Korea Univ. | M.S. (Int.) | gh1emd_at_korea.ac.kr | [OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
 10| Seunghyeon Lee | KAIST | Ph.D. |coksm1963_at_kaist.ac.kr | [ONOS-ApSM](https://github.com/K-OpenNet/ONOS-ApSM) | 15.06-Current 
 11| Heedo Kang | KAIST | Ph.D. |kangheedo_at_kaist.ac.kr | [ONOS-SSM](https://github.com/K-OpenNet/ONOS-SSM) | 16.01-Current 
