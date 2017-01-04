@@ -9,11 +9,11 @@
 1| Jun-Sik Shin | GIST | Ph.D. | jsshin@smartx.kr  | [OpenStack-OvN](https://github.com/K-OpenNet/OpenStack-OvN) | 15.06-Current
 2| Jungsu Han | GIST | Ph.D. | jshan@nm.gist.ac.kr | [OpenStack-MultiView](https://github.com/K-OpenNet/OpenStack-MultiView) | 15.06-Current
 3| Usman Muhammad | GIST | Integrated | usman@smartx.kr |  [OpenStack-MultiView](https://github.com/K-OpenNet/OpenStack-MultiView) | 16.06-Current
-4| Hyunsik Yang | Soongsil Univ. | Ph.D.| yangun@dcn.ssu.ac.kr |[OPNFV-HealthMon](https://github.com/K-OpenNet/OPNFV-HealthMon) [OPNFV-portscanning](https://github.com/K-OpenNet/OPNFV-portscanning)| 15.06-Current 
-5| MinSik Kim | Soongsil Univ. | Master | kms313@ssu.ac.kr | [OPNFV-Cluster](https://github.com/K-OpenNet/OPNFV-Cluster) [OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-Current 
+4| Hyunsik Yang | Soongsil Univ. | Ph.D.| yangun@dcn.ssu.ac.kr |[OPNFV-HealthMon](https://github.com/K-OpenNet/OPNFV-HealthMon) <br>[OPNFV-portscanning](https://github.com/K-OpenNet/OPNFV-portscanning)| 15.06-Current 
+5| MinSik Kim | Soongsil Univ. | Master | kms313@ssu.ac.kr | [OPNFV-Cluster](https://github.com/K-OpenNet/OPNFV-Cluster) <br>[OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-Current 
 6| Van-Tung Doan | Soongsil Univ. | Master | tungdoan@dcn.ssu.ac.kr | [OPNFV-Alarm](https://github.com/K-OpenNet/OPNFV-Alarm) | 16.06-Current 
-7| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh@gmail.com | [ODL-OPNFV-LoadPathAwareSFscheduler(API)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerAPI) [OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
-8| Jaewook Lee | Korea Univ. | Integrated | iioiioiio123@korea.ac.kr | [ODL-OPNFV-LoadPathAwareSFscheduler(TEST)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerTest) [OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
+7| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh@gmail.com | [ODL-OPNFV-LoadPathAwareSFscheduler(API)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerAPI) <br>[OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
+8| Jaewook Lee | Korea Univ. | Integrated | iioiioiio123@korea.ac.kr | [ODL-OPNFV-LoadPathAwareSFscheduler(TEST)](https://github.com/K-OpenNet/ODL-OPNFV-LoadPathAwareSFschedulerTest) <br>[OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
 9| Hosung Baek| Korea Univ. | Integrated | gh1emd@korea.ac.kr | [OPNFV-ODL-IFG](https://github.com/K-OpenNet/OPNFV-ODL-IFG) | 15.06-Current 
 10| Seunghyeon Lee | KAIST | Ph.D. |coksm1963@kaist.ac.kr | [ONOS-ApSM](https://github.com/K-OpenNet/ONOS-ApSM) | 15.06-Current 
 11| Heedo Kang | KAIST | Ph.D. |kangheedo@kaist.ac.kr | [ONOS-SSM](https://github.com/K-OpenNet/ONOS-SSM) | 16.01-Current 
