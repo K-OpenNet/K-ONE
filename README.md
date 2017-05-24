@@ -18,8 +18,10 @@ K-ONE Collaboration Project is the project for developing next-generation networ
  * 미래지향적으로 융햡형 SmartX Box 자원을 중심으로 인프라를 구성하면 매우 효율적입니다. 이에 맞춰 SDN/NFV/Cloud를 통합하는 소프트웨어-정의 인프라는 S-Box/M-Box/μ-Box 형태로 나눠진 자원 집합으로 대표됩니다.
  * 즉 SmartX Box는 컴퓨트/스토리지 자원을 따로 구성하고 네트워킹을 하는 기존의 분리형 자원 구성에서 탈피하고 있습니다. 이를 활용하면 세 형태의 자원을 가상화 차원에서 관리하며, 가용한 자원의 상태에 따라 사용자들의 요구에 맞춰 적응적으로 할당/운영하는 구성이 가능합니다. 
 
-##K-ONE in details 
+## K-ONE in details 
 
 ### [K-ONE Participants](https://github.com/K-OpenNet/Main/tree/master/Participants)
-### [K-ONE Software_Solutions](https://github.com/K-OpenNet/Main/tree/master/Software_Solutions)
+### [K-ONE Playground](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Playground)
+### [K-ONE Software](https://github.com/K-OpenNet/Main/tree/master/Software_Solutions)
 ### [K-ONE Technical Documents](https://github.com/K-OpenNet/Main/tree/master/Technical_Documents)
+### [K-ONE Demonstrations](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Demonstration)
