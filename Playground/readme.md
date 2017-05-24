@@ -7,11 +7,11 @@ K-ONE IoT Cloud Testbed is global developer environment for R&D on opensource ne
 
 아래는 K-ONE 공용개발환경에 대한 전체적인 다이어그램입니다.
 
-###K-Cluster 중심의 K-ONE 공용개발환경
+### K-Cluster 중심의 K-ONE 공용개발환경
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/images/K-Cluster-centric_K-ONE_Playground.png)
 
-###K-Cluster의 컨셉 디자인
+### K-Cluster의 컨셉 디자인
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/images/K-Cluster_Concept_Design-v0.3.png)
 
-###K-ONE 공용개발환경 구성현황도
+### K-ONE 공용개발환경 구성현황도
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/images/%5B170104%5DK-ONE_Playground_Current_Configuration.png)
