@@ -36,5 +36,7 @@
 6| DaeHwan Kim | KwangWoon Univ. | M.S. | kdhwan8876_at_daum.net | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) |15.06-16.02 
 7| Jaeyoung So | KwangWoon Univ. | M.S. | threeout56_at_gmail.com | [ONOS-IoTCon](https://github.com/K-OpenNet/ONOS-IoTCon) |15.06-16.06 
 8| Hongseok Kim | KwangWoon Univ. | M.S. | quatuu_at_naver.com |[ONOS-IoTPro](https://github.com/K-OpenNet/ONOS-IoTPro) |15.06-16.06
-
+9| MinSik Kim | Soongsil Univ. | M.S. | kms313_at_ssu.ac.kr | [OPNFV-Cluster](https://github.com/K-OpenNet/OPNFV-Cluster) [OPNFV-StateMon](https://github.com/K-OpenNet/OPNFV-StateMon)| 15.06-17.02
+10| Jinwoo Kim | KAIST | M.S. |jinwoookim_at_kaist.ac.kr | [ONOS-SMoV](https://github.com/K-OpenNet/ONOS-SMoV) | 15.06-17.02
+11| Jian Li | POSTECH | Post Doctoral |gunine_at_postech.ac.kr | [ONOS-LISP(Control Plane)](https://github.com/K-OpenNet/ONOS-LISP-Control-Plane) | 16.06-17.02
 
