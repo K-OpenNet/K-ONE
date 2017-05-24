@@ -8,8 +8,8 @@ No. | Software | Developer | Target OSS Project | Github Repository |
 6| OPNFV-Alarm | Van-Tung Doan (SSU) | OpenStack Tacker | https://github.com/K-OpenNet/OPNFV-Alarm |
 7| OPNFV-ODL-SFC | Dongeun Suh, Jaewook Lee, Hosung Baek | OpenDayLight, OPNFV-SFC | https://github.com/K-OpenNet/OPNFV-ODL-SFC |
 8| ONOS-Mas-Man | Woojoong Kim | ONOS MAS-MAN | https://github.com/K-OpenNet/ONOS-MAS-Man |
-9| ONOS-LISP-SBI ONOS-LISP-MGMT-Plane | ONOS LISP | https://github.com/K-OpenNet/ONOS-LISP-Management-Plane |
-10| ONOS-LISP-SBI ONOS-LISP-CTR-Plane | ONOS LISP | https://github.com/K-OpenNet/ONOS-LISP-Control-Plane |
+9| ONOS-LISP-SBI ONOS-LISP-MGMT-Plane | Yoonseon Han| ONOS LISP | https://github.com/K-OpenNet/ONOS-LISP-Management-Plane |
+10| ONOS-LISP-SBI ONOS-LISP-CTR-Plane | Junmuk Choi | ONOS LISP | https://github.com/K-OpenNet/ONOS-LISP-Control-Plane |
 11| ONOS-SSM | Heedo Kang | Security Mode ONOS | https://gerrit.onosproject.org/#/q/Heedo+Kang |
 12| ONOS-SMoV | Seunghyeon Lee | Security Mode ONOS | https://github.com/K-OpenNet/ONOS-SMoV |
 13| ONOS-ApSM | Chanhee Lee | Security Mode ONOS | https://github.com/K-OpenNet/ONOS-ApSM |
