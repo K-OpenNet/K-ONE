@@ -17,3 +17,7 @@ also, this collaborative project is led by academic consortium of five universit
 ### [3. K-ONE Software Solutions](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Software-Solutions)
 ### [4. K-ONE Technical Documents](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Technical-Documents)
 ### [5. K-ONE Demonstrations](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Demonstration)
+
+<br />
+<br />
+2017.06 Find the mid-term progress summary of K-ONE Collaboration: (https://github.com/K-OpenNet/K-ONE/wiki/K-ONE_Progress_Report-v01.pdf)
