@@ -20,4 +20,4 @@ also, this collaborative project is led by academic consortium of five universit
 
 <br />
 <br />
-* 2017.06 Find the mid-term progress summary of K-ONE Collaboration: (https://github.com/K-OpenNet/K-ONE/wiki/K-ONE_Progress_Report-v01.pdf) *
+*(Find the mid-term progress summary of K-ONE Collaboration: [K-ONE Progress Summary (2015~2017)] (https://github.com/K-OpenNet/K-ONE/wiki/K-ONE_Progress_Report-v01.pdf) )*
