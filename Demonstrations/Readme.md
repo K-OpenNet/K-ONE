@@ -17,7 +17,10 @@ No. | Title | Developer | Poster | Video |
 
 No. | Title | Developer | Poster | Video |
 ----|-------|-----------| ------ | ----- |
-1| K-Cluster: A NFV-Cloud Playground with DevOps Automation | GIST Team | [link]() | [link]() |
-2| OpenStack-MultiView: SmartX Visibility Software for OpenStack-based IoT-Cloud | GIST Team | [link]() | [link]() |
-3| 주기적인 스위치-컨트롤러 배치 소프트웨어 | POSTECH Team | [link]() | [link]() |
-4| Load/Path Aware SF Scheduler in ODL SFC | KU Team | [link]() | [link]() |
+1| K-Cluster: A NFV-Cloud Playground with DevOps Automation | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2016_Fall/%5BPoster%5DDemo%231_K-Cluster_GIST.pdf) | link |
+2| OpenStack-MultiView: SmartX Visibility Software for OpenStack-based IoT-Cloud | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2016_Fall/%5BPoster%5DDemo%232_OpenStack-MultiView_GIST.pdf) | link |
+3| Mutli-domain H-SFC and Alarm monitroing driver for HA | SSU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2016_Fall/%5BPoster%5DDemo%233_Mutli-domain%20H-SFC%20and%20Alarm%20monitroing%20driver%20for%20HA_SSU.pdf) | link |
+4| Load/Path Aware SF Scheduler in ODL SFC | KU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2016_Fall/%5BPoster%5DDemo%234_LoadPath-Aware_SF_Scheduler_in_ODL-SFC_KU.pdf) | link |
+5| Security-Mode ONOS | KAIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2016_Fall/%5BPoster%5DDemo%235_Security-Mode-ONOS_KAIST.pdf) | link |
+6| 주기적인 스위치-컨트롤러 배치 소프트웨어 | POSTECH Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2016_Fall/%5BPoster%5DDemo%236_ONOS_MAS-Man_POSTECH.pdf) | link |
+
