@@ -1,7 +1,7 @@
 # K-ONE Participants
 
 
-![new participants](https://github.com/K-OpenNet/K-ONE/blob/master/images/%5B170104%5DK-ONE_Consortium_Members.png)
+![new participants](https://github.com/K-OpenNet/K-ONE/blob/master/images/%5B170524%5DK-ONE_Consortium_Members.png)
 
 
 \# | Name      | Affilation | Course | Contact (e-Mail) | Developed S/W | Period
@@ -17,7 +17,7 @@
 9| Dongeun Suh | Korea Univ. | Ph.D. | dongeunsuh_at_gmail.com | [OPNFV-ODL-SFC](https://github.com/K-OpenNet/OPNFV-ODL-SFC) | 15.06-Current 
 10| Jaewook Lee | Korea Univ. | Ph.D. | iioiioiio123_at_korea.ac.kr | [OPNFV-ODL-SFC](https://github.com/K-OpenNet/OPNFV-ODL-SFC) | 15.06-Current 
 11| Hosung Baek| Korea Univ. | Ph.D. (Int.) | gh1emd_at_korea.ac.kr | [OPNFV-ODL-SFC](https://github.com/K-OpenNet/OPNFV-ODL-SFC) | 15.06-Current
-12| Yoonseon Han | POSTECH | Ph.D (Int.)| seon054_at_postech.ac.kr | [ONOS-LISP(MGMT Plane)](https://github.com/K-OpenNet/ONOS-LISP-Management-Plane)| 15.06-Current 
+12| Yoonseon Han | POSTECH | Ph.D. (Int.)| seon054_at_postech.ac.kr | [ONOS-LISP(MGMT Plane)](https://github.com/K-OpenNet/ONOS-LISP-Management-Plane)| 15.06-Current 
 13| Junmuk Choi | POSTECH | M.S. (Int.) |gunine_at_postech.ac.kr | [ONOS-LISP(Control Plane)](https://github.com/K-OpenNet/ONOS-LISP-Control-Plane) | 16.06-Current 
 14| Woojoong Kim | POSTECH | Ph.D. |woojoong_at_postech.ac.kr | [ONOS-MAS-Man](https://github.com/K-OpenNet/ONOS-MAS-Man) |15.06-Current 
 15| Heedo Kang | KAIST | Ph.D. |kangheedo_at_kaist.ac.kr | [ONOS-SSM](https://gerrit.onosproject.org/#/q/Heedo+Kang) | 16.01-Current 
