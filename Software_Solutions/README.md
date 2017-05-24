@@ -1,5 +1,8 @@
-No. | Software      | Developer | Version | Private Share | K-ONE Open Source | Global Open Source
-----|----------|------------|--------|---------|---------------|-------
+No. | Software | Developer | Target OSS Project | Github Repository | 
+----|----------|-----------|--------------------|-------------------|
+1| OpenStack-OvN | Jun-Sik Shin (GIST) | OpenStack Tricircle | https://github.com/K-OpenNet/OpenStack-OvN |
+
+
 1| OpenStack-OvN (Open vNetworking Manager) | Jun-Sik Shin (GIST) | v0.4 | - | [OpenStack-OvN](https://github.com/K-OpenNet/OpenStack-OvN) | - 
 2| OpenStack-MultiView (Multi-layer Visibility with SmartX Agent | Jungsu Han (GIST) | v0.4 | - | [OpenStack-MultiView](https://github.com/K-OpenNet/OpenStack-MultiView) | - 
 3| OpenStack-Mesos (Mesos-leveraged MPI Clustering) | Namgon Lucas Kim (GIST) | v0.3 | - | [OpenStack-Mesos](https://github.com/K-OpenNet/OpenStack-Mesos) | -
