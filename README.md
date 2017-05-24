@@ -6,8 +6,7 @@ K-ONE Collaboration Project is launched from June 2015 to facilitate the communi
 
 Also, this collaborative project is led by academic consortium of five universities (GIST, KAIST, Korea University, Postech, Soongsil University) and is supported by various companies and research communities including SDN/NFV Forum of Korea.
 
-![alt tag](https://github.com/K-OpenNet/Main/blob/master/images/Open_Collaboration.png)
-
+![alt tag] <p align="center"> <img (https://github.com/K-OpenNet/Main/blob/master/images/Open_Collaboration.png)> </p>
 
 ## Please check following links to find out more about K-ONE: 
 
