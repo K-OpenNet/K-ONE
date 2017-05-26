@@ -1,4 +1,4 @@
-# K-ONE Collaboration Project
+# K-ONE Collaboration Project (2015 ~ Present)
 
 K-ONE Collaboration Project is launched from June 2015 to facilitate the community-driven collaborative development for next-generation networking software by focusing on the global open-source networking software around SDI (Software-Defined Infrastructure). Under the umbrella of Open Networking Korea initiative, K-ONE collaborators aim to investigage various software integrations and functionality modules, mostly tied with open-source software such as ONOS (Open Networking Operating System) SDN (Software-Defined Networking) Controller, OPNFV (Open Platform for NFV) NFV (Network Function Virtualization) Integration, and OpenStack Cloud Computing. Also, the developed software outcomes are to be validated with a real-world collaborative multi-site SDN/NFV/Cloud-enabled testbed, named as K-ONE Playground.
 
