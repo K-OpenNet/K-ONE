@@ -3,7 +3,7 @@
 ![new participants](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/%5B180321%5DK-ONE_Consortium_Members.png)
 
 
-\# | Name      | Affilation | Course | Contact (e-Mail) | Developed S/W | Period
+\# | Name      | Affiliation | Course | Contact (e-Mail) | Developed S/W | Period
 ----|----------|------------|--------|---------|---------------|-------
 1| Jun-Sik Shin | GIST | Ph.D. | jsshin_at_smartx.kr  | [OpenStack-OvN](https://github.com/K-OpenNet/OpenStack-OvN) | 15.06-Current
 2| Usman Muhammad | GIST | Ph.D. (Int.) | usman_at_smartx.kr | [OpenStack-MultiView](https://github.com/K-OpenNet/OpenStack-MultiView) | 16.06-Current
@@ -24,7 +24,7 @@
 
 
 # Former Members
-\# | Name      | Affilation | Course | Contact | Developed S/W | Period
+\# | Name      | Affiliation | Course | Contact | Developed S/W | Period
 ----|----------|------------|--------|---------|---------------|-------
 1| Namgon Lucas Kim | GIST | Ph.D. | namgon_at_smartx.kr | [OpenStack-Mesos](https://github.com/K-OpenNet/OpenStack-Mesos) | 15.06-16.06
 2| Gwangwoo Park | Korea Univ. | Ph.D. | kwoo17_at_korea.ac.kr | - | 15.06-15.11 
