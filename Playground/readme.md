@@ -24,7 +24,7 @@
 * <sub>**IoT-Cloud Hub**: K-Cluster를 사물인터넷과 연계하여 개발 및 실증할 필요가 있을 때, K-Cluster와 IoT Things 사이의 연결성을 제공하는 교두보 역할을 수행. IoT-Cloud Hub는 GIST에 위치하는 K-Cluster 모델에 시험적으로 적용 및 검증을 진행중.</sub>
 
 ### K-ONE 공용개발환경 구성현황도
-![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/%5B170104%5DK-ONE_Playground_Current_Configuration.png)
+![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/%5B180321%5DK-ONE_Playground_Current_Configuration.png)
 
 <sub>현재 K-ONE 공용개발환경은 위의 구성도와 같이 국내 5개의 사이트(GIST, KAIST, SSU, KU, POSTECH)에 융합형 자원 박스들로 구성된 K-Cluster가 배포되었고, 이들을 KOREN/KREONET 네트워크로 연동함으로써 멀티-사이트 실증 환경이 구축된 상태입니다.</sub>
 
