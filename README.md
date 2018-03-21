@@ -18,11 +18,11 @@ This collaborative project is led by academic consortium of five universities (G
 
 ## Please check following links to find out more about K-ONE: 
 
-### [1. K-ONE Participants](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Participants)
-### [2. K-ONE Playground](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Playground)
-### [3. K-ONE Software Solutions](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Software-Solutions)
-### [4. K-ONE Technical Documents](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Technical-Documents)
-### [5. K-ONE Demonstrations](https://github.com/K-OpenNet/K-ONE/wiki/K-ONE-Demonstration)
+### [1. K-ONE Participants](https://github.com/K-OpenNet/K-ONE/wiki/K%EF%BC%8DONE-Participants)
+### [2. K-ONE Playground](https://github.com/K-OpenNet/K-ONE/wiki/K%EF%BC%8DONE-Playground)
+### [3. K-ONE Software Solutions](https://github.com/K-OpenNet/K-ONE/wiki/K%EF%BC%8DONE-Software-Solutions)
+### [4. K-ONE Technical Documents](https://github.com/K-OpenNet/K-ONE/wiki/K%EF%BC%8DONE-Technical-Documents)
+### [5. K-ONE Demonstrations](https://github.com/K-OpenNet/K-ONE/wiki/K%EF%BC%8DONE-Demonstration)
 
 <br />
 <br />
