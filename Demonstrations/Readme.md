@@ -1,5 +1,16 @@
 # K-ONE Demonstrations
 
+### Open Networking Korea 2017 Fall Demonstrations
+
+No. | Title | Developer | Poster | Video |
+----|-------|-----------| ------ | ----- |
+1| Networking Automation across Multi-site K-ONE Playground | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2017_Fall/%5BPoster%5DDemo%231_Networking_Automation_across_Multi-site_K-ONE_Playground_GIST.pdf) | - |
+2| SDN을 활용한 IoT-Cloud Hub 기반 Multi-Access 및 다중 경로 제어 | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2017_Fall/%5BPoster%5DDemo%232_SDN%EC%9D%84_%ED%99%9C%EC%9A%A9%ED%95%9C_IoT-Cloud_Hub_%EA%B8%B0%EB%B0%98_Multi-Access_%EB%B0%8F_%EB%8B%A4%EC%A4%91_%EA%B2%BD%EB%A1%9C_%EC%A0%9C%EC%96%B4_GIST.pdf) | - |
+3| 모니터링 기능 지원 가능한 IO Visor 기반의 Site Visibility Framework | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2017_Fall/%5BPoster%5DDemo%233_%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81_%EA%B8%B0%EB%8A%A5_%EC%A7%80%EC%9B%90_%EA%B0%80%EB%8A%A5%ED%95%9C_IO_Visor_%EA%B8%B0%EB%B0%98%EC%9D%98_Site_Visibility_Framework_GIST.pdf) | - |
+4| High Availability Cluster Management for Virtual Network Function over Multi-site OpenStack Deployment | SSU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2017_Fall/%5BPoster%5DDemo%234_High_Availability_Cluster_Management_for_Virtual_Network_Function_SSU.pdf) | - |
+5| Support Kubernetes as VIM in VNFM NFVO Tacker | SSU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2017_Fall/%5BPoster%5DDemo%235_Support_Kubernetes_as_VIM_in_VNFM_NFVO_Tacker_SSU.pdf) | - |
+6| Tacker-based monitoring technique for providing service high availability of NFV | SSU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2017_Fall/%5BPoster%5DDemo%236_Tacker-based_monitoring_technique_for_providing_service_high_availability_of_NFV_SSU.pdf) | - |
+
 ### Open Networking Korea 2017 Spring Demonstrations
 
 No. | Title | Developer | Poster | Video |
