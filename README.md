@@ -27,4 +27,4 @@ This collaborative project is led by academic consortium of five universities (G
 <br />
 <br />
 
-Please check [K-ONE Collaboration Progress Summary (2015 - 2017)](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/K-ONE-Progress-Report-v01.pdf).
+Please check [K-ONE Collaboration Phase #1 (2015 - 2017) Progress Summary](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/K-ONE-Progress-Report-v01.pdf).
