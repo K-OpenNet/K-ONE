@@ -15,5 +15,5 @@ No. | Software | Developer | Target OSS Project | Github Repository |
 11| K-ONE-M-CORD-Lite | Jibum Hong (POSTECH) | M-CORD | https://github.com/K-OpenNet/K-ONE-M-CORD-Lite |
 12| K-ONE-M-CORD-Lite | Junmook Choi (POSTECH) | M-CORD | https://github.com/K-OpenNet/K-ONE-M-CORD-Lite |
 13| ONOS-HAC | Seungwon Woo (KAIST) | Security Mode ONOS | https://github.com/K-OpenNet/ONOS-HAC |
-14| ONOS-SSM | Heedo Kang (KAIST) | Security Mode ONOS | https://gerrit.onosproject.org/#/q/Heedo+Kang<br>https://github.com/K-OpenNet/ONOS-SMoV |
+14| ONOS-SSM | Heedo Kang (KAIST) | Security Mode ONOS | https://gerrit.onosproject.org/#/q/Heedo+Kang<br>https://github.com/K-OpenNet/ONOS-SSM |
 15| ONOS-SMoV | Seunghyun Lee (KAIST) | Security Mode ONOS | https://github.com/K-OpenNet/ONOS-SMoV |
