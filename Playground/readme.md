@@ -8,7 +8,7 @@ K-ONE 공용개발환경의 구성현황 | [link](https://github.com/K-OpenNet/K
 K-ONE 공용개발환경의 활용사례 | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Playground/usecases.md) |
 K-ONE 공용개발환경의 개선계획 | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Playground/plan.md) |
 
-# K-ONE Playground
+# K-ONE 공용개발환경 (K-ONE Open Playground)
 
 ## K-Cluster 중심의 K-ONE 공용개발환경
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/K-Cluster-centric_K-ONE_Playground.png)
