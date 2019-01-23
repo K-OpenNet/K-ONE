@@ -1,4 +1,5 @@
 # K-ONE Demonstrations
+(시연 비디오는 각 폴더 내에서 다운로드 가능합니다.)
 
 ### K-ONE 1~4차년도 주요실적 시연
 
@@ -11,7 +12,7 @@ No. | Title | Developer |  Video |
 5| Opendaylight Load/Service Path-aware SF Scheduler | GIST Team | [Youtube](https://youtu.be/adS5GYmmAQ4) |
 6| OpenStack-MultiView with Onion-Ring Visualization | GIST Team | [Youtube](https://youtu.be/lMMu9B0PBbE) |
 
-주요실적 시연 비디오는 \"2019.01.24_Demonstration\" 폴더에서 다운로드 가능합니다.
+
 
 ### Open Networking Korea 2018 Fall Demonstrations
 
