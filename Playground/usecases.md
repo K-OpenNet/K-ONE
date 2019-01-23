@@ -14,8 +14,8 @@ K-ONE 공용개발환경의 개선계획 | [link](https://github.com/K-OpenNet/K
 - 초기구축 단계인 2015년도부터 연구개발을 위해 공용개발환경을 활용하고 있지만, 멀티사이트 인프라 규모의 연구개발이 본격적으로 진행되는 2017년 이후의 활용 사례들은 아래와 같습니다.
 
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/K-ONE_Playground_Usecases_3rdYear.png)
-- OpenStack Tricircle 검증
-- SDN 기반 동적 스티어링 기능 검증
+- OpenStack Tricircle 기반 멀티사이트 클라우드 네트워킹 검증
+- SDN 기반 IoT 가시성 데이터 수집 경로 동적 스티어링 기능 검증
 - SF Overload and Failure Management Module in ODL
 - OPNFV Doctor Project 기반 Fault Management 테스트
 - ONOS-LISP Fault System 테스트
