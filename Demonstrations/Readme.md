@@ -17,7 +17,7 @@ No. | Title | Developer |  Video |
 
 No. | Title | Developer | Poster | Video |
 ----|-------|-----------| ------ | ----- |
-1| Multi-layer Onion Ring Visualization of Distributed Clusters for SmartX MultiView | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2018_Fall/Demo1_Onion-ring_Visualization-GIST.pdf) | [link](https://youtu.be/iJ7lah4v1y8) |
+1| Multi-layer Onion Ring Visualization of Distributed Clusters for SmartX MultiView | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2018_Fall/Demo1_Onion-ring_Visualization-GIST.pdf) | [Youtube](https://youtu.be/iJ7lah4v1y8) |
 2| 네트워크 모니터링 오버헤드를 줄이기 위한 적응적 네트워크 모니터링 기법 | KU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2018_Fall/Demo2_Adaptive_Network_Monitoring.pdf) | - |
 3| Network-aware Service Mesh for across Multi-site K-ONE Playground | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2018_Fall/Poster1_Network-aware_Service_mesh-GIST.pdf) | - |
 4| 멀티사이트 환경에서의 NFV 장애 탐침 및 분석을 위한 통합관리시스템 | SSU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2018_Fall/Poster2_Multisite_NFV_MGMT_System.pdf) | - |
