@@ -3,7 +3,7 @@
 No. | Software | Developer | Target OSS Project | Github Repository | 
 ----|----------|-----------|--------------------|-------------------|
 1| OpenStack-MultiView | Jun-Sik Shin (GIST) | IO Visor | https://github.com/K-OpenNet/OpenStack-MultiView |
-2| Istio-NASM | Moonjoong Kang (GIST) | CNCF Isitio | https://github.com/K-OpenNet/Istio-NetworkAwareServiceMesh |
+2| Istio-NASM | Moonjoong Kang (GIST) | Isitio | https://github.com/K-OpenNet/Istio-NetworkAwareServiceMesh |
 3| OpenStack-MultiView | Usman Muhammad (GIST) | IO Visor | https://github.com/K-OpenNet/OpenStack-MultiView |
 4| OpenStack-RedundantVNFFG | Hosung Baek (KU) | OpenStack Tacker | https://github.com/K-OpenNet/OpenStack-Redundant_VNFFG |
 5| ODL-SFC-iOAM | Jaewook Lee (KU) | OPNFV/ODL SFC | https://github.com/K-OpenNet/KU-OPNFV-ODL-SFC-iOAM |
