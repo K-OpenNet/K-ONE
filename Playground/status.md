@@ -36,4 +36,5 @@ GIST 사이트의 K-ONE Rack 상에 K-ONE DevOps Center, K-ONE Integrated Securi
 SmartX DataLake Box의 효과적인 운영을 위하여, 이를 단독 활용하는 것이 아니라 Ceph 클러스터 형태로 구성하여 활용하고 있습니다.
 
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/%5B190123%5DK-ONE_Playground_Current_Tower_config2.png)데이터 중심의 지능화된 기술에 대한 연구 주제가 활발히 진행됨에 따라, 본 동향을 반영하는 Cloud/SDN/NFV 지능화 연구를 지원하기 위해 SmartX Intelligence Box를 K-ONE Tower 내에 구축하였습니다.
+
 베어메탈 자원을 그대로 활용하는 분석 클러스터의 성능은 그대로 유지하면서 유연성 및 관리 효율성 측면의 단점을 개선할수 있도록, CNCF Kubernetes 클러스터 상에 Apache Spark의 워크로드를 컨테이너 형태로 쉽게 배포할 수 있는 컨테이너 기반의 분석 클러스터를 구성하여 운영하고 있습니다.
