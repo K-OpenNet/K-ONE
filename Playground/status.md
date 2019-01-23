@@ -11,9 +11,11 @@ K-ONE 공용개발환경의 개선계획 | [link](https://github.com/K-OpenNet/K
 
 ## K-ONE Playground 전체 구축 현황도
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/%5B190123%5DK-ONE_Playground_Current_Overall_Config.png)
-<sub>현재 K-ONE 공용개발환경은 위의 구성도와 같이 국내 5개의 사이트(GIST, KAIST, SSU, KU, POSTECH)에 융합형 자원 박스들로 구성된 K-Cluster가 배포되었고, 이들을 KOREN/KREONET 네트워크로 연동함으로써 멀티-사이트 실증 환경이 구축된 상태입니다.</sub>
+- 현재 K-ONE 공용개발환경은 위의 구성도와 같이 국내 5개의 사이트(GIST, KAIST, SSU, KU, POSTECH)에 융합형 자원 박스들로 구성된 K-Cluster가 배포되었고, 이들을 KOREN/KREONET 네트워크로 연동함으로써 멀티-사이트 실증 환경이 구축된 상태입니다.
 
-<sub>멀티-사이트 실증을 제공하기 위해 국내 5개의 사이트 별로 클라우드 환경을 구성한 후, 사이트 사이의 상호연결성(Inter-connect)을 위해 각 사이트에 가상스위치, 가상라우터 VNF를 자동으로 배치합니다. 그리고 SDN 제어기를 활용하여 VxLAN 기반의 L2 연결 또는 BGP 기반의 L3 연동을 자동화함으로써 SDN/NFV/Cloud를 활용하는 멀티-사이트 인프라 실증 환경이 구축됩니다. 마지막으로, 각 사이트 별로 구성된 독립적인 오픈스택 클라우드의 인증 정보를 중앙에서 관리하는 멀티-리전(Multi-Region) 실증 환경을 제공할 수 있습니다.</sub>
+- 멀티-사이트 실증을 제공하기 위해 국내 5개의 사이트 별로 클라우드 환경을 구성한 후, 사이트 사이의 상호연결성(Inter-connect)을 위해 각 사이트에 가상스위치, 가상라우터 VNF를 자동으로 배치합니다. 
+
+- 그리고 SDN 제어기를 활용하여 VxLAN 기반의 L2 연결 또는 BGP 기반의 L3 연동을 자동화함으로써 SDN/NFV/Cloud를 활용하는 멀티-사이트 인프라 실증 환경이 구축됩니다. 
 
 ## K-Cluster 배포
 ![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/K-Cluster_Hardware_Specification.png)
@@ -35,6 +37,6 @@ GIST 사이트의 K-ONE Rack 상에 K-ONE DevOps Center, K-ONE Integrated Securi
 
 SmartX DataLake Box의 효과적인 운영을 위하여, 이를 단독 활용하는 것이 아니라 Ceph 클러스터 형태로 구성하여 활용하고 있습니다.
 
-![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/%5B190123%5DK-ONE_Playground_Current_Tower_config2.png)데이터 중심의 지능화된 기술에 대한 연구 주제가 활발히 진행됨에 따라, 본 동향을 반영하는 Cloud/SDN/NFV 지능화 연구를 지원하기 위해 SmartX Intelligence Box를 K-ONE Tower 내에 구축하였습니다.
+![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/%5B190123%5DK-ONE_Playground_Current_Tower_config2.png)- 데이터 중심의 지능화된 기술에 대한 연구 주제가 활발히 진행됨에 따라, 본 동향을 반영하는 Cloud/SDN/NFV 지능화 연구를 지원하기 위해 SmartX Intelligence Box를 K-ONE Tower 내에 구축하였습니다.
 
-베어메탈 자원을 그대로 활용하는 분석 클러스터의 성능은 그대로 유지하면서 유연성 및 관리 효율성 측면의 단점을 개선할수 있도록, CNCF Kubernetes 클러스터 상에 Apache Spark의 워크로드를 컨테이너 형태로 쉽게 배포할 수 있는 컨테이너 기반의 분석 클러스터를 구성하여 운영하고 있습니다.
+- 베어메탈 자원을 그대로 활용하는 분석 클러스터의 성능은 그대로 유지하면서 유연성 및 관리 효율성 측면의 단점을 개선할수 있도록, CNCF Kubernetes 클러스터 상에 Apache Spark의 워크로드를 컨테이너 형태로 쉽게 배포할 수 있는 컨테이너 기반의 분석 클러스터를 구성하여 운영하고 있습니다.
