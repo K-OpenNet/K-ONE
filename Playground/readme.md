@@ -11,7 +11,7 @@ K-ONE 공용개발환경의 개선계획 | [link](https://github.com/K-OpenNet/K
 # K-ONE 공용개발환경 (K-ONE Open Playground)
 
 ## K-Cluster 중심의 K-ONE 공용개발환경
-![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/K-Cluster-centric_K-ONE_Playground.png)
+![alt tag](https://github.com/K-OpenNet/K-ONE/blob/master/WWW/images/playground/%5B190123%5DK-ONE_Playground_design.png)
 
 - K-ONE 공용개발환경(Playground)은 K-ONE 컨소시엄의 SDN/NFV/Cloud 오픈소스 프로젝트 공동 개발 및 실증 환경을 제공하기 위해서, Edge-Cloud 모델에 대응하는 클러스터형 테스트베드 K-Cluster와 단일 클러스터로 실증이 어려운 멀티-사이트, 멀티-도메인 관련 실증을 통합적으로 제공하기 위해 국내 다수 지역(GIST, KAIST, SSU, KU, POSTECH)에 상기 K-Cluster를 분산 배포하고, 네트워크로 연동하여 구축된 멀티-사이트 클러스터 테스트베드를 의미합니다. 
 
