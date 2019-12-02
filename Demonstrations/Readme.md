@@ -1,6 +1,18 @@
 # K-ONE Demonstrations
 (시연 비디오는 각 폴더 내에서 다운로드 가능합니다.)
 
+### Open Networking Korea 2019 Fall Demonstrations
+
+No. | Title | Developer | Poster | Video |
+----|-------|-----------| ------ | ----- |
+1| Conceptual Design of eBPF/XDP-based DoS Mitigation for Cloud-native Edge-Cloud | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2019_Fall/Poster1_eBPF%2CXDP-based_DoS_Mitigation.pdf) | - |
+2| Cloud-native SmartX Intelligence Cluster for AI-inspired HPC/HPDA Workloads | GIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2019_Fall/Poster2_Cloud-native_SmartX_Intelligence_Cluster.pdf) | - |
+3| 프로그래머블 데이터 평면 기반의 서비스 기능 체이닝 | KU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2019_Fall/Poster3_Service_Function_Chaining.pdf) | - |
+4| NFV 환경에서 VNF 가용성 제공을 위한 Fenix 플러그인 개발 | SSU Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2019_Fall/Poster4_Fenix_Plugin_for_VNF_HA.pdf) | - |
+5| A Machine Learning based Anomaly Detection Method for NFV Management | POSTECH Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2019_Fall/Poster5_ML-based_Anomaly_Detection_Method_for_NFV_Management.pdf) | - |
+6| Multi-layered Security-Mode ONOS | KAIST Team | [link](https://github.com/K-OpenNet/K-ONE/blob/master/Demonstrations/ONK_2019_Fall/Poster6_Multi-layered_Security-Mode_ONOS.pdf) | - |
+
+
 ### K-ONE 1~4차년도 주요실적 시연
 
 No. | Title | Developer |  Video |
