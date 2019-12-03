@@ -15,8 +15,8 @@
 8| Hojun Won | Soongsil Univ. | M.S.| hjwon_at_dcn.ssu.ac.kr |[OPNFV-Container-Multi-Interface](https://github.com/K-OpenNet/OPNFV-Container-Multi-Interface)| 19.02-Current
 9| Hosung Baek| Korea Univ. | Ph.D. | gh1emd_at_korea.ac.kr | [OPNFV-OpenStack-Redundant-VNFFG](https://github.com/K-OpenNet/OpenStack-Redundant_VNFFG) | 15.06-Current
 10| Jaewook Lee | Korea Univ. | Ph.D. | iioiioiio123_at_korea.ac.kr | [OPNFV-OpenStack-VNFFG-Healing](https://github.com/K-OpenNet/OPNFV-OpenStack-VNFFG-Healing) <br> [ODL-SFC-iOAM](https://github.com/K-OpenNet/KU-OPNFV-ODL-SFC-iOAM) | 15.06-Current 
-11| Hochan Lee | Korea Univ. | M.S. | gh1emd_at_korea.ac.kr | [OPNFV-OpenStack-VNFFG-Scaling](https://github.com/K-OpenNet/OPNFV-OpenStack-VNFFG-Scaling) <br> [OPNFV-ODL-MultisiteRSP](https://github.com/K-OpenNet/OPNFV-ODL-MultisiteSFC) | 15.06-Current
-12| Jibum Hong | POSTECH | Master (Int.) | hosewq_at_postech.ac.kr | [K-ONE-M-CORD-Lite](https://github.com/K-OpenNet/K-ONE-M-CORD-Lite) |15.06-Current
+11| Hochan Lee | Korea Univ. | M.S. | gh1emd_at_korea.ac.kr | [OPNFV-OpenStack-VNFFG-Scaling](https://github.com/K-OpenNet/OPNFV-OpenStack-VNFFG-Scaling) <br> [OPNFV-ODL-MultisiteRSP](https://github.com/K-OpenNet/OPNFV-ODL-MultisiteSFC) | 18.04-Current
+12| Jibum Hong | POSTECH | Master (Int.) | hosewq_at_postech.ac.kr | [K-ONE-M-CORD-Lite](https://github.com/K-OpenNet/K-ONE-M-CORD-Lite) |17.06-Current
 13| Heedo Kang | KAIST | Ph.D. | kangheedo_at_kaist.ac.kr | [ONOS-SSM](https://gerrit.onosproject.org/#/q/Heedo+Kang) | 16.01-Current 
 14| Haney Kang | KAIST | M.S. | haney1357_at_kaist.ac.kr | [ONOS-HAC](https://github.com/K-OpenNet/ONOS-HAC) | 19.02-Current 
 15| Suyeol Lee | KAIST | M.S. | 95suyeol_at_kaist.ac.kr | [ONOS-SMoV](https://github.com/K-OpenNet/ONOS-SMoV) | 19.02-Current
